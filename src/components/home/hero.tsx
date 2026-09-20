@@ -2,7 +2,7 @@ import { Image, Pressable, StyleSheet, Text, View } from "react-native";
 
 const hero = () => {
   return (
-    <View className="bg-[#160e24] relative my-3 h-[300px] w-full rounded-[20px]">
+    <View className="bg-[#160e24] relative my-4 h-[300px] w-full rounded-[20px]">
       <View className="absolute left-5 top-5 flex h-full w-[50%] flex-col items-start justify-center gap-2">
         <Text className="text-lg font-bold text-slate-200">New Season</Text>
         <Text className="text-3xl text-white">New Styles</Text>
